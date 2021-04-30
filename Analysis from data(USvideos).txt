@@ -1,0 +1,18 @@
+1.The average number of views of a trending video is 2,360,784. The median value of the number of views is 681,861, which means that half of the trending videos have less than this number and the other half have views greater than this number.
+2.The average number of likes for a trending video is 74,266, while the average number of likes is 3,711.
+3.The average number of comments is 8,446 while the median is 1,856.
+
+PieChart
+	We can see that 44% of trending video titles contain at least one word in all caps. We will use our added variable later to analyze the correlation between the variables.
+
+Histogram:
+	We can see that the videos title length distribution looks like a normal distribution, where most videos have a title length of around 30-60 characters.
+
+ScatterPlot:
+	Looking at the scatter plot, we can tell that there is no relationship between the length of the title and the number of views. However, we do notice an interesting thing that the Videos having 100,000,000 and more views have a title length of between 33 and 55 characters or so.
+
+HeatMap:
+	The correlation map and correlation table above indicate that views and likes are strongly positively correlated.
+
+WordCloud:
+	Words with more size has the most frequency and used in trending videos.
