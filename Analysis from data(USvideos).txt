@@ -3,7 +3,7 @@
 3.The average number of comments is 8,446 while the median is 1,856.
 
 PieChart
-	We can see that 44% of trending video titles contain at least one word in all caps. We will use our added variable later to analyze the correlation between the variables.
+	We can see that about 80% of trending video titles contain at least one word in all caps. We will use our added variable later to analyze the correlation between the variables.
 
 Histogram:
 	We can see that the videos title length distribution looks like a normal distribution, where most videos have a title length of around 30-60 characters.
